@@ -1,6 +1,6 @@
 # 2021-intro-sonicpi
 
-Taller de introducció a Sonic Pi - [Festa OS Girona 2021](https://festa-opensource.geekscat.org/), basat en el [mehackit Sonic Pi workshop](http://sonic-pi.mehackit.org)
+Taller de introducció a Sonic Pi - [Festa OpenSource Girona 2021](https://festa-opensource.geekscat.org/), basat en el [mehackit Sonic Pi workshop](http://sonic-pi.mehackit.org)
 
 Material accessible en forma de [Jupyter notebook](http://nbviewer.ipython.org/github/GeeksCAT/2021-intro-sonicpi/blob/master/sonicpi_introduction.ipynb) o [Reveal.js slides](http://nbviewer.ipython.org/format/slides/github/GeeksCAT/2021-intro-sonicpi/blob/master/sonicpi_introduction.ipynb?transition=cube#/) 
 
